@@ -1,0 +1,12 @@
+2025-08-12 14:08:48,868 INFO: HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 413 Payload Too Large"
+2025-08-12 14:08:48,870 ERROR: »€œ«œ_ﬂ„«_⁄—› Â«_√„Ì‰_«·„„Ì“_«·ÿ»⁄…_«·√Ê·Ï.pdf attempt 1 failed: API error occurred: Status 413
+{
+  "message":"Request size limit exceeded",
+  "request_id":"eb2c576c95f5d716b7857e01723ba516"
+}
+2025-08-12 14:10:36,168 INFO: HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 413 Payload Too Large"
+2025-08-12 14:10:36,170 ERROR: »€œ«œ_ﬂ„«_⁄—› Â«_√„Ì‰_«·„„Ì“_«·ÿ»⁄…_«·√Ê·Ï.pdf attempt 2 failed: API error occurred: Status 413
+{
+  "message":"Request size limit exceeded",
+  "request_id":"cfbb2f0f58b0a95a470bb8163ed2027c"
+}

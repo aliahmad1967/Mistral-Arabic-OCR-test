@@ -1,0 +1,11 @@
+filename,status,attempts,error
+بغداد_كما_عرفتها_أمين_المميز_الطبعة_الأولى.pdf,error,1,"API error occurred: Status 413
+{
+  ""message"":""Request size limit exceeded"",
+  ""request_id"":""eb2c576c95f5d716b7857e01723ba516""
+}"
+بغداد_كما_عرفتها_أمين_المميز_الطبعة_الأولى.pdf,error,2,"API error occurred: Status 413
+{
+  ""message"":""Request size limit exceeded"",
+  ""request_id"":""cfbb2f0f58b0a95a470bb8163ed2027c""
+}"
